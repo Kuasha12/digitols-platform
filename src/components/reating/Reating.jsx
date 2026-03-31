@@ -4,7 +4,7 @@ const Reating = () => {
   return (
     <div className='pt-20'>
       <div className='bg-linear-65 from-purple-500 to-pink-500  '>
-        <div className='flex  justify-center items-center w-[1600px] h-[247px] '>
+        <div className='flex  justify-center items-center w-full h-[247px] '>
           <div className='w-[398.67px]   justify-center items-center '>
             <h1 className='flex justify-center items-center font-bold text-white text-5xl'>
               50K+
@@ -13,7 +13,7 @@ const Reating = () => {
               Active Users
             </p>
           </div>
-          <div className='w-[398.67px]  justify-center items-center border-l-2 border-l-gray-200'>
+          <div className='w-[398.67px] bolder justify-center items-center border-l-2 border-gray-300'>
             <h1 className='flex justify-center items-center font-bold text-white text-5xl'>
               200+
             </h1>
@@ -21,7 +21,7 @@ const Reating = () => {
               Premium Tools
             </p>
           </div>
-          <div className='w-[398.67px] justify-center items-center border-l-2 border-l-gray-200'>
+          <div className='w-[398.67px] justify-center items-center border-l-2 border-gray-300 '>
             <h1 className='flex justify-center items-center font-bold text-white text-5xl'>
               4.9
             </h1>
