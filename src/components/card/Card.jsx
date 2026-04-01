@@ -327,7 +327,7 @@ const Card = () => {
                         <p className='text-[#627382]'>Analytics dashboard</p>
                       </div>
                     </div>
-                    <div className='pt-3'>
+                    <div className='pt-1'>
                       <button className='w-11/12 py-2 bg-linear-65  from-purple-500 to-pink-500 rounded-3xl text-white'>
                         Buy Now
                       </button>

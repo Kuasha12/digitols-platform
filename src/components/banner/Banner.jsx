@@ -28,7 +28,7 @@ const Banner = () => {
             </button>
           </div>
           <div className=''>
-            <button className='flex py-3 px-4 text-[#2b16cf] border-2 border-[#2b16cf] font-bold rounded-3xl gap-2'>
+            <button className='flex py-3 px-4 text-[#2b16cf] hover:bg-linear-65 from-purple-500 to-pink-500 border-2 border-[#2b16cf] font-bold rounded-3xl gap-2'>
               <img src={cartImg} alt='' />
               Watch Demo
             </button>
